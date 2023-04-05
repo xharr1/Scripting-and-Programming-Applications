@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Main.cpp">
+    <ClCompile Include="student.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\student.cpp">
+    <ClCompile Include="roster.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\roster.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,10 +29,13 @@
     <ClInclude Include="..\..\degree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\student.h">
+    <ClInclude Include="degree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\roster.h">
+    <ClInclude Include="student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="roster.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
